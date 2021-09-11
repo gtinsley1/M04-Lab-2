@@ -24,7 +24,7 @@ start
       num STD_RATE = 65
       num COM_RATE = 40
       num SUB_RATE = 30
-      num DAYS_FOR_DISCOUNT = 10
+      num DAYS_FOR_DISCOUNT = 7
       num DISCOUNT_RATE = 0.20
       string QUIT = "ZZZZ"
    getReady()
